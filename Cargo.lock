@@ -2189,7 +2189,7 @@ dependencies = [
 
 [[package]]
 name = "time"
-version = "0.3.36"
+version = "0.3.21"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8f3403384eaacbca9923fa06940178ac13e4edb725486d70e8e15881d0c836cc"
 dependencies = [
